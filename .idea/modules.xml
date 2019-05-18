@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaBasic.iml" filepath="$PROJECT_DIR$/JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJava/LearnJava.iml" filepath="$PROJECT_DIR$/LearnJava/LearnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJavaFx/LearnJavaFx.iml" filepath="$PROJECT_DIR$/LearnJavaFx/LearnJavaFx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/测试/测试.iml" filepath="$PROJECT_DIR$/测试/测试.iml" />
+    </modules>
+  </component>
+</project>
